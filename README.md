@@ -1,5 +1,5 @@
 - 👋 ## Oiii! Eu sou a Ana Paula Zimmermann
-- 👀 Hoje trabalho com Suporte a infrastrutura de TI e busco oportuidades na área de Desenvolvimento.
+- 👀 Hoje trabalho com Suporte a infrastrutura de TI e busco oportunidades na área de Desenvolvimento.
 - 🌱 Estudante de desenvolvimento Web - Full Stack
 
 <div>
